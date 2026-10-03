@@ -10,9 +10,7 @@ I've also been working on an FPGA implementation of the quantum Fourier transfor
 Some other projects that I've been planning and will hopefully at least try out sometime soon are:
 * My own custom written physics simulator.
 * A custom keyboard layout generator that will attempt to generate the most efficient keyboard layout based on the text you input for a given language.
-* A custom flashcard app that has Desmos-like equation editing.
+* The integration of Desmos-like equation into something like a flashcard app or a document editing application.
 * And many more (well really just a few).
 
-Currently I don't have any of the repositories up yet, but once I have the majority of the RISC-V and Serpent projects done I will set up them up with the requisite files and additional sources that I looked at while working on the project. 
 
-After that I will just have repositories up as I start on the other projects from the beginning.
